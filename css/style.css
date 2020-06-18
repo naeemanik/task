@@ -1,0 +1,103 @@
+/* Global CSS Start */
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    padding: 125px 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* Global CSS End */
+
+/* Header CSS Start */
+header{
+    background-image: url(../image/Shape\ 1.png); 
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+header .navbar {
+    top: 30px;
+}
+header .nav-item{
+    padding: 0 12px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+header .banner-social-icon a{
+    color: #fff;
+}
+header .banner-hero-area{
+
+padding-top: 30%;
+
+position: absolute;
+}
+
+header .banner-hero-area img{
+    
+position: relative;
+    
+left: -15%;
+}
+
+header .banner-hero-area h1{
+    font-size: 85px;
+}
+
+header .banner-hero-area h1 span{
+    font-size: 74px;
+    color: #8b8b8b;
+}
+
+header .banner-hero-area p{
+    font-size: 29.17px;
+    font-weight: 100;
+    padding: 30px 0;
+    color: #717171;
+    margin: 0;
+}
+header .banner-hero-area .button{
+   
+}
+header .banner-hero-area .button .btn {
+    text-decoration: none;
+    color: #f7f7f7;
+    border: 1px solid #f7f7f7;
+    padding: 10px 50px;
+    margin-right: 20px;
+    font-weight: 100;
+    font-size: 16px;
+}
+header .banner-hero-area .button .btn-cta{
+    background-size: 300% 100%;
+    transition: all .4s ease-in-out;
+    background-image: linear-gradient(to right, #f5ce62, #e43603, #fa7199, #e85a19);
+    border-radius: 0;
+}
+
+header .banner-hero-area2{
+  
+}
+
+header .banner-hero-area2 img{
+    margin-top: 35px;
+}
+/* Header CSS End */
+
+/* Section-1 CSS Start */
+.section-1{
+    background: url(../image/section-1\ bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.section-1 h2{
+    font-size: 64.12px;
+    text-align: center;
+}
+/* Section-1 CSS End */
